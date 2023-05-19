@@ -1,0 +1,1 @@
+/home/ziad/scandimagento7777/lib/web/jquery/bootstrap/tab.js

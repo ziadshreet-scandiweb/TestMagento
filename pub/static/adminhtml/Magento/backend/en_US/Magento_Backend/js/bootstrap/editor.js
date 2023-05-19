@@ -1,0 +1,1 @@
+/home/ziad/scandimagento7777/vendor/magento/module-backend/view/adminhtml/web/js/bootstrap/editor.js

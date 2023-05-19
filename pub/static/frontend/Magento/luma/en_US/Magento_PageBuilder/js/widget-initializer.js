@@ -1,0 +1,1 @@
+/home/ziad/scandimagento7777/vendor/magento/module-page-builder/view/base/web/js/widget-initializer.js

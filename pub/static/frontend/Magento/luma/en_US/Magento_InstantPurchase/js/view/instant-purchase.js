@@ -1,0 +1,1 @@
+/home/ziad/scandimagento7777/vendor/magento/module-instant-purchase/view/frontend/web/js/view/instant-purchase.js

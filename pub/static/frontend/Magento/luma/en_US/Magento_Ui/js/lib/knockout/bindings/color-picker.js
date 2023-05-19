@@ -1,0 +1,1 @@
+/home/ziad/scandimagento7777/vendor/magento/module-ui/view/base/web/js/lib/knockout/bindings/color-picker.js

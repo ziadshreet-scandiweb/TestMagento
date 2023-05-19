@@ -1,0 +1,1 @@
+/home/ziad/scandimagento7777/lib/web/mage/adminhtml/wysiwyg/tiny_mce/tinymce5Adapter.js

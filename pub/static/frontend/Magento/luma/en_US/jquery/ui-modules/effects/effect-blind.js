@@ -1,0 +1,1 @@
+/home/ziad/scandimagento7777/lib/web/jquery/ui-modules/effects/effect-blind.js
